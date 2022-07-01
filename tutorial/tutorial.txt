@@ -1,0 +1,23 @@
+javascript
+============
+
+lightweight=>
+works with front back 
+function => first class 
+JIT compilation
+
+
+
+=>cntl +shift+j
+
+=>counter application =>responsiveness
+
+
+Q:=> suppose there is a restaurant named "Something"
+Vishal has bought two disdhes 
+print the message " vishal has bought {dish1} and {dish2} 
+worth ruppees {dish1price} and {dish2price} and the total is {total}"
+
+test cases
+["burger", "sandwich", "50", "100"]
+["coffee", "tea", "150", "100"]
