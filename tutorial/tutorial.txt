@@ -21,3 +21,25 @@ worth ruppees {dish1price} and {dish2price} and the total is {total}"
 test cases
 ["burger", "sandwich", "50", "100"]
 ["coffee", "tea", "150", "100"]
+
+
+//html=> div, h1, ...h6, p, article , head, bold, span, list img a,  
+//css=> display, position, width, height
+
+
+values=>literals/constants
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
