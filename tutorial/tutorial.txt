@@ -28,6 +28,79 @@ test cases
 
 
 values=>literals/constants
+variables=> let and const 
+dynamic cast
+
+data type
+
+numeric operator
++, -, /, *, %, (**)
+comparison operator
+==, === , !== !=, >, <, >=, <=
+
+operator (binary operator)
+=>operands required =2
+
+logical operator
+=> && || ! 
+!=>unary operator
+
+//truth table
+op1= rain 
+op2= sun
+result=> umbrella
+
+
+=>rest 
+dish1, dish2 => pay
+op1=> {
+
+color => 
+taste =>
+
+}
+op2=> dish2
+pay
+
+=> (colorDish1 || tasteDish1) && (dish2)
+=> ((color==="red") || tasteDish1) && (dish2)
+
+&& => first op  second op result
+        T         T         T
+        T         F         F
+        F         T         F
+        F         F         F
+
+|| => first op  second op result
+        T         T         T
+        T         F         T
+        F         T         T
+        F         F         F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
