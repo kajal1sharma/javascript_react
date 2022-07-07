@@ -78,6 +78,32 @@ pay
         F         F         F
 
 
+Question 3:
+Design an application 
+
+=>either take marks of 4 different subjects from user 
+=> or store them directly in variables
+
+hindi, english, ,maths , science
+testcase 
+[67, 86, 45, 90]
+[34, 78, 90, 78]
+
+1: pass>40% , pass in all subject eachsubject>40
+2: science  total>70% math >70 science>70
+3: commm total>50% english>60 math>70
+4: arts pass
+
+result=> you can apply for following branched [s, c, a]
+
+================================================================
+
+Q to user => which branch you want to choose
+rep=> check if posisble()
+
+
+
+
 
 
 
