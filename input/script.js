@@ -16,4 +16,9 @@ function printIt(event){
 inputEle.addEventListener('change',getName)
 // inputEle.addEventListener('click',printIt)
 
-buttonEle.addEventListener('click', printIt);
+//buttonEle.addEventListener('click', printIt);
+//buttonEle.addEventListener('click',event=>{nameStudent = event.target.value})
+
+buttonEle.addEventListener('click',fucntion(e){
+                                nameStudent = e.target.value
+                            })
