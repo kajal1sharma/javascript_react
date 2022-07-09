@@ -33,7 +33,7 @@
 //key=> name of properties and methods
 //values 
 
-let name="priya"
+// let name="priya"
 
 //let object={name:"neha" , place :"delhi" , class:"5th"}
 
@@ -82,24 +82,24 @@ let name="priya"
 //     }
 // }
 
-function Address(houseno, block){
-    this.houseno=houseno,
-    this.block=block
-}
+// function Address(houseno, block){
+//     this.houseno=houseno,
+//     this.block=block
+// }
 
-function  MyObject(name, place, houseno, block){
-    this.name=name,
-    this.place=place,
-    this.marks=[23,23,34,43,23],
-    this.address=new Address(houseno, block)
-    this.getInfo=()=>{
-        return `${this.name} from ${this.place}`
-    }
-}
+// function  MyObject(name, place, houseno, block){
+//     this.name=name,
+//     this.place=place,
+//     this.marks=[23,23,34,43,23],
+//     this.address=new Address(houseno, block)
+//     this.getInfo=()=>{
+//         return `${this.name} from ${this.place}`
+//     }
+// }
 
-let obj1=new MyObject("priya", "delhi","34","A");
-let obj2=new MyObject("amit", "pune","89","p");
-console.log(obj1, obj2);
+// let obj1=new MyObject("priya", "delhi","34","A");
+// let obj2=new MyObject("amit", "pune","89","p");
+// console.log(obj1, obj2);
 
 
 
